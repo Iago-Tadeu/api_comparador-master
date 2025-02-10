@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\bootstrap",
+    "\\database",
+    "\\database\\factories",
+    "\\storage",
+    "\\storage\\logs"
+  ],
+  "SelectedNode": "\\app",
+  "PreviewInSolutionExplorer": false
+}
